@@ -8,4 +8,4 @@ The main goals include:
 - Making fun of the federal government
 
 
-To look at this website directly, [](click https:\\site.nhd.org\97995422)
+To look at this website directly, [](https:\\site.nhd.org\97995422)
