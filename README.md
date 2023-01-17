@@ -8,5 +8,5 @@ The main goals include:
 - Making fun of the federal government
 
 
-To look at this website directly, 
+To look at this website directly, copy and paste the following link in a search bar: 
 [https:\\site.nhd.org\97995422](url)
